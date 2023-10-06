@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Personal Portfolio</title>
+</head>
+<body>
+<div>
+<h1>Dominic Lombardi</h1>
+<h3 style="color:blueviolet;text-align: center;" New Jersey Institute of Technology, Dcl8, Architecture</h3>
+<p style="color:burlywood">I am a an Architecture student in my fourth year here at NJIT. I am very involved on campus and am a member of both a professional and a social fraternity.<br>
+I have a multitude of hobbies that range from painting, drawing, skateboarding, playing with my cat, watching shows, etc. I am also a musician with over 14 years of experience on my instrument. <br>
+Music is something that is a very important part of my life that I try to keep involved with every single day.</p>
+<a> https://experience.elluciancloud.com/njiot929/ </a>
+<img src ="Blackcat-Lilith.jpg" />
+</div>
+<div>
+<table>
+    <th>table</th>
+    <tr>row1</tr>
+    <tr>row2</tr>
+</table>
+
+</div>
+<div id="content">
+    <h1>Content Section</h1>
+    <table border="1">
+        <tr>
+            <th><h1>Education</h1></th>
+            <th><h1>Experience</h1></th>
+            <th><h1>Skills</h1></th>
+        </tr>
+        <tr>
+            <td>
+                <ul>
+                    <li>Bachelor's Degree in Computer Science</li>
+                    <li>Master's Degree in Information Technology</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Software Engineer at XYZ Company</li>
+                    <li>Project Manager at ABC Inc.</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Programming (Java, Python)</li>
+                    <li>Web Development (HTML, CSS, JavaScript)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <ul>
+                    <li>Associate's Degree in Business</li>
+                    <li>Certification in Digital Marketing</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Marketing Specialist at Company X</li>
+                    <li>Sales Representative at Company Y</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Digital Marketing Strategy</li>
+                    <li>Sales and Negotiation</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div id="form">
+    <h1>Form Section</h1>
+    <form>
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username"><br><br>
+        
+        <label for="firstName">First Name:</label>
+        <input type="text" id="firstName" name="firstName"><br><br>
+        
+        <label for="lastName">Last Name:</label>
+        <input type="text" id="lastName" name="lastName"><br><br>
+        
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+        
+        <label>Choose from the following:</label><br>
+        <input type="checkbox" id="math" name="subject" value="Math">
+        <label for="math">Math</label><br>
+        <input type="checkbox" id="architecture" name="subject" value="Architecture">
+        <label for="architecture">Architecture</label><br>
+        <input type="checkbox" id="computerScience" name="subject" value="Computer Science">
+        <label for="computerScience">Computer Science</label><br><br>
+        
+        <label>Select one of the following:</label><br>
+        <input type="radio" id="mathRadio" name="subjectRadio" value="Math">
+        <label for="mathRadio">Math</label><br>
+        <input type="radio" id="architectureRadio" name="subjectRadio" value="Architecture">
+        <label for="architectureRadio">Architecture</label><br>
+        <input type="radio" id="computerScienceRadio" name="subjectRadio" value="Computer Science">
+        <label for="computerScienceRadio">Computer Science</label><br><br>
+        
+        <input type="submit" value="Submit">
+    </form>
+</div>
+
+<div id="classes">
+    <h1>Classes This Semester</h1>
+    <ul>
+        <li>CS104</li>
+        <li>ARCH395</li>
+        <li>AD140</li>
+        <li>ARCH393</li>
+    </ul>
+</div>
+</body>
