@@ -1,0 +1,25 @@
+h1 {
+    color:blanchedalmond
+}
+
+th {
+    background-color: lightgrey;
+}
+
+img1{
+    max-width: 100%;
+    border: 5px dashed red;
+    padding: 30px
+}
+
+img2{
+    max-width: 100%;
+    border: 5px dashed red;
+    padding: 30px
+}
+
+img3{
+    max-width: 100%;
+    border: 5px dashed red;
+    padding: 30px
+}
