@@ -1,0 +1,60 @@
+h1 {
+    color:blanchedalmond
+}
+
+th {
+    background-color: lightgrey;
+}
+
+img1{
+    max-width: 100%;
+    border: 5px dashed red;
+    padding: 30px
+}
+
+img2{
+    max-width: 100%;
+    border: 5px dashed red;
+    padding: 30px
+}
+
+img3{
+    max-width: 100%;
+    border: 5px dashed red;
+    padding: 30px
+}
+
+.para{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.nbahighlightslink{
+    background-color:rgb(52, 59, 52);
+    padding: 5px 15px 5px 15px;
+}
+
+.nbahighlightslink:hover{
+    background-color: red;
+}
+
+.lofimusiclink{
+    background-color:rgb(35, 40, 35);
+    padding: 5px 15px 5px 15px;
+}
+
+.lofimusiclink:visited{
+    background-color: gray;
+}
+
+.animeopeningslink{
+    background-color:rgb(35, 40, 35);
+    padding: 5px 15px 5px 15px;
+}
+
+.animeopeningslink:active{
+    background-color: orange;
+}
