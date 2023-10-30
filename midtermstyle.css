@@ -1,0 +1,116 @@
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif; color: #1DA1F2;
+}
+
+#para1{
+    background-color: #1DA1F2;
+    color: rgb(124, 159, 211);
+    padding: 10px;
+    text-align: center;
+
+}
+#album-cover{
+    background-color: #1DA1F2;
+    color: rgb(124, 159, 211);
+    padding: 10px;
+    text-align: center;
+
+}
+
+
+main {
+    margin: 20px;
+}
+
+#post-form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+#post-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#post-button {
+    background-color: #1DA1F2;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#post-list {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.post {
+    margin-bottom: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1DA1F2;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    margin: 20px;
+}
+
+#post-form {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+#post-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#post-button {
+    background-color: #1DA1F2;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+#post-button:hover {
+    background-color: #0A84D0;
+}
+
+#post-list {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.post {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
