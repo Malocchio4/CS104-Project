@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            My Profile
+        </title>
+       
+        <link rel="stylesheet" href="PracticeProject.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+        <body style="background-color:lightcyan">
+            
+        <h1 style="color:gray; font-size:xxx-large;">
+            <img src="mr-anonymous.png" style="height: 60px" class="rounded-circle">
+            YOUr Profile
+        </h1>
+        <br>
+
+        <div>
+            <img src="5390405.png" alt="Playlist" style="height: 40px">
+            Public Playlist
+        </div>
+
+        <div>
+            <img src="music-playlist-icon-14.jpg" alt="Playlist2" style="height: 40px">
+            Private Playlist
+        </div>
+
+        <div>
+            <img src="follower.png" alt="Followers" style="height: 40px">
+            Followers
+        </div>
+
+        <div>
+            <img src="747410.png" alt="Following" style="height: 40px">
+            Following
+        </div> <br>
+
+        <h2>
+            Top Songs This Week
+            <br> <br>
+            <img src="Screenshot 2023-10-30 234105.png" alt="Tops">
+        </h2> <br>
+
+        <h2>
+            <center>
+                Add More!
+                <br>
+                <img src="4091355.png" alt="Recs" style="height:700px">
+            </center>
+        </h2>
+
+
+            <div class="navbar navbar-expand-sm bg-light fixed-bottom">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a href="#Home" class="nav-link text-dark">Home</a></li>
+                    <li class="nav-item"><a href="#Setting" class="nav-link text-dark">Setting</a></li>
+                    <li class="nav-item"><a href="#About" class="nav-link text-dark">About</a></li>
+                    <li class="nav-item"><a href="#My Profile" class="nav-link text-dark">My Profile</a></li>
+                </ul>
+            </div>
+
+            <br><br><br>
+
+            </div>
+            <div id="Home">
+                <a class="njitlink" href="C:\Users\amand\OneDrive - NJIT\Desktop\CS104\CSPracticeProject.html">Home</a>
+            </div> <br>
+            <div id="Setting">
+                <a class="njitlink" href="https://www.njit.edu/">Setting</a>
+            </div> <br>
+            <div id="About">
+                <a class="njitlink" href="C:\Users\amand\OneDrive - NJIT\Desktop\CS104\CSPracticeAbout.html">About</a>
+            </div> <br>
+            <div id="My Profile">
+                <a class="njitlink" href="C:\Users\amand\OneDrive - NJIT\Desktop\CS104\PracticeProjectProfile.html">My Profile</a>
+            </div> 
+            <br><br><br>
+    </head>
+</html>
